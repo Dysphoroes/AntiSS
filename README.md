@@ -25,3 +25,15 @@ AMan#8243
 
 List of detections.
 ![image](https://user-images.githubusercontent.com/106023701/169703043-005f864b-c290-4e67-aa6b-95c8f59b82a6.png)
+
+
+
+
+
+
+
+Issues???
+
+1. Doesn't work on some PCs, Mostly ones that are formatted into different languages.
+2. Not working on some PCs that don't have Visual Studio installed, It's a soft dependency meaning it's not needed.
+3. Not detecting some minecraft versions, Mostly 1.12 - 1.13.2
