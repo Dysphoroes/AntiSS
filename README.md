@@ -1,6 +1,9 @@
 AntiSS Is a free minecraft SS tool.
 It's trusted by thousands of members!
 
+This is 100% safe. It's all false positives.
+This tool is used by hundreads of screensharers and some of the best in the community.
+
 We offer detections for most clients from 1.7 - 1.18.2
 They include.
 Whiteout
