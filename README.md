@@ -24,24 +24,4 @@ If you have any other questions add me on discord :)
 AMan#8243
 
 List of detections.
-Vape
-Dream
-Antic
-Whiteout
-Rise
-Novoline
-Entropy
-Raven b1/b2/b3
-Skilled v1/v2
-Impact
-Inertia
-All xray texture packs
-ppclicker
-dope clicker
-katanantiss
-any anydesk resolvers
-any recorders
-most interal 1.7 - 1.18.2 clients
-most antiss tools
-VPNs
-Alt accounts.
+![image](https://user-images.githubusercontent.com/106023701/169703043-005f864b-c290-4e67-aa6b-95c8f59b82a6.png)
